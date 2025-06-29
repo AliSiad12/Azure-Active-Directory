@@ -15,7 +15,7 @@ This project demonstrates how to create users and assign roles in **Microsoft En
 
 ### 🔹 Step 1: Sign in to Azure Portal
 
-- Visit [https://portal.azure.com](https://portal.azure.com)
+- Visit [https://portal.azure.com 
 - Log in with your Azure Admin credentials
 
 ---
